@@ -32,7 +32,7 @@
 		"@types/body-scroll-lock": "^2.6.1",
 		"@types/canvas-confetti": "^1.4.0",
 		"@types/common-tags": "^1.8.0",
-		"@types/node": "^15.0.1",
+		"@types/node": "^16.3.3",
 		"@types/wanakana": "^4.0.0",
 		"autoprefixer": "^10.0.4",
 		"postcss-load-config": "^3.0.1",
